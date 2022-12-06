@@ -3,7 +3,7 @@ import random
 from math import pi, sin, cos
 
 # local
-from config import *
+from config import *  # also imports pygame as pg
 
 
 class Star:
